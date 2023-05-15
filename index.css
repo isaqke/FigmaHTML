@@ -1,0 +1,8 @@
+.header {
+    background-image: url(Rectangle\ 1.png)
+}
+nav {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
