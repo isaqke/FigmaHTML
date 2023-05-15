@@ -7,11 +7,34 @@ nav {
     justify-content: space-around;
 }
 
-h1{
+.restaurante{
     color: #BD4545;
     text-align: center;}
 
 h2{
     text-align: center;
     
+}
+h1{
+    text-align: center;
+    
+}
+
+
+
+a{
+    background-color: #BD4545;
+    color: white;
+    width: 5px;
+    text-align: center;
+}
+
+.pizzas{
+    text-align: left;
+}
+.bebidas{
+    text-align: center;
+}
+.sobremesas{
+    text-align: right;
 }
