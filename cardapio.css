@@ -1,0 +1,32 @@
+body{
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: 250%;
+}
+
+h1{
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+.comidas{
+    text-align: center;
+}
+img{
+    width: 180px;
+}
+.bebidas{
+    text-align: center;
+}
+
+.sobremesas{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
